@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-assemblyscript@^0.9.1:
+assemblyscript@0.9.1:
   version "0.9.1"
   resolved "https://registry.yarnpkg.com/assemblyscript/-/assemblyscript-0.9.1.tgz#678ec0816af2c2bf27a205df47c3e6705b4668d7"
   integrity sha512-aM72Ey+CQloWmqTDLnlXD2Tb3sVoLU5i3tShaJWHlnLFWiyWWLZBQTue6jwyzqF8t9JNiEyC9eqkuagNtgSDjw==
@@ -20,7 +20,7 @@ long@^4.0.0:
   resolved "https://registry.yarnpkg.com/long/-/long-4.0.0.tgz#9a7b71cfb7d361a194ea555241c92f7468d5bf28"
   integrity sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==
 
-typescript@^3.7.5:
+typescript@3.7.5:
   version "3.7.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.5.tgz#0692e21f65fd4108b9330238aac11dd2e177a1ae"
   integrity sha512-/P5lkRXkWHNAbcJIiHPfRoKqyd7bsyCma1hZNUGfn20qm64T6ZBlrzprymeu918H+mB/0rIg2gGK/BXkhhYgBw==
