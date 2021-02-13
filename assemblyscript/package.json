@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "assemblyscript": "^0.9.1",
-    "typescript": "^3.7.5"
+    "assemblyscript": "0.9.1",
+    "typescript": "3.7.5"
   }
 }
