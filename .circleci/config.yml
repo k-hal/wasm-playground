@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: cimg/node:16.0
+      - image: cimg/node:16.1
     steps:
       - checkout
       - run: cd assemblyscript && yarn
