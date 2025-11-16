@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-assemblyscript@0.28.2:
-  version "0.28.2"
-  resolved "https://registry.yarnpkg.com/assemblyscript/-/assemblyscript-0.28.2.tgz#0789280a1bda52834dc550e03d4b38e42d84b71b"
-  integrity sha512-0j6kQdfKqRgmkY9zIzpFVcsLW8lMZ61pIZmmXJNiJeN2rvaHCCBSzHOoFNBh2jlvQNijY2/uxuufnSQma8HmFQ==
+assemblyscript@0.28.9:
+  version "0.28.9"
+  resolved "https://registry.yarnpkg.com/assemblyscript/-/assemblyscript-0.28.9.tgz#3c0e4c6e9319d6078f2ff04723f0f49216b840e6"
+  integrity sha512-UQqIYSUuJzqQP6fKTs1CtanyxmnDk7K+Kmj/J67agimxDqxjdMnTF/y9rEHUBL+K/VIEV4QYu57RMrL5LwbAvw==
   dependencies:
     binaryen "123.0.0-nightly.20250530"
     long "^5.2.4"
