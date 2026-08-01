@@ -2,18 +2,18 @@
 # yarn lockfile v1
 
 
-assemblyscript@0.28.19:
-  version "0.28.19"
-  resolved "https://registry.yarnpkg.com/assemblyscript/-/assemblyscript-0.28.19.tgz#0c119bf7e50cbfc9d8629a0d234f151133b73c4d"
-  integrity sha512-yOAlAb9EsrI00oUaf6qUTtTcYYeelG2iC3f1LnA45XUeSlMrp2O2FF5Llj4P+Y84ZiIlh/ciEEpOaPwwmOKq8g==
+assemblyscript@0.28.20:
+  version "0.28.20"
+  resolved "https://registry.yarnpkg.com/assemblyscript/-/assemblyscript-0.28.20.tgz#49da1d9c1043bf9eb7adf454e68b9922f9430562"
+  integrity sha512-5PM7GZpvcLypHcLmi30aP8mqm5HjU+LL3BdV1xDyA3USGtL2w+iMiUnhtH+vW8+2kOuHlAyPu7M+QgyEw5he1g==
   dependencies:
-    binaryen "130.0.0-nightly.20260609"
+    binaryen "131.0.0-nightly.20260721"
     long "^5.2.4"
 
-binaryen@130.0.0-nightly.20260609:
-  version "130.0.0-nightly.20260609"
-  resolved "https://registry.yarnpkg.com/binaryen/-/binaryen-130.0.0-nightly.20260609.tgz#1e8501c8162ebdb72dcdc84de561052e06a34684"
-  integrity sha512-Zyl9Tw638x08LDew22YtxdYiUGxn+quzpR3ySIS4Nccv6yAiO5j1Yko9IEPNpj/aBZf71xtD/6hYXsgZ2ye3ew==
+binaryen@131.0.0-nightly.20260721:
+  version "131.0.0-nightly.20260721"
+  resolved "https://registry.yarnpkg.com/binaryen/-/binaryen-131.0.0-nightly.20260721.tgz#2c2a196a57e5995acd76d8b3b8b7d170935a39a3"
+  integrity sha512-AAQIkhfbYXh4FBObwBrlO+5L+6Rp6OOMOjh6AdT0M+GLNLyrwKWgtW+EzmizNgx9CWDfTJPfDtKoZi62QESbtg==
 
 long@^5.2.4:
   version "5.3.2"
